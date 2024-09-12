@@ -1,3 +1,4 @@
+```
 JavaFxProject
 ├─ .gitignore
 ├─ .idea
@@ -35,3 +36,4 @@ JavaFxProject
             └─ assignment
                └─ javafxproject
                   └─ hello-view.fxml
+```
